@@ -10,7 +10,7 @@ I’m a driven Full-Stack Developer and UI/UX Designer passionate about creating
 - 🌱 Deepening my skills in React.js, Node.js, Azure Cloud, AI/ML integration, and system design  
 - 💡 Enthusiastic about continuous learning, problem-solving, and turning ideas into reality  
 - 🎯 Skilled in balancing front-end aesthetics with robust backend functionality  
-- 📝 Published research on hybrid AI models and data streaming for concept drift detection  
+- 📝 Presented research paper on hybrid AI models and data streaming for concept drift detection  
 
 ---
 
