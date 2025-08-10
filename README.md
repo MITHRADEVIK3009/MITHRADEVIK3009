@@ -20,7 +20,7 @@ I’m a driven Full-Stack Developer and UI/UX Designer passionate about creating
 |-------------------------|-------------------------|--------------------------|-----------------------------------|
 | React.js, HTML, CSS     | Node.js, Express.js      | Azure (App Service, Cosmos DB) | Git, GitHub, Docker               |
 | Responsive & Adaptive UI | RESTful APIs, MongoDB    | GitHub Actions, Azure DevOps Pipelines | Firebase, VS Code, Postman      |
-| Material UI, Tailwind CSS | Python (Flask)          | Azure AI Services         | Behavioral Interview Preparation  |
+| Material UI, Tailwind CSS | Python (Flask)          | Azure AI Services         | 
 
 ---
 
