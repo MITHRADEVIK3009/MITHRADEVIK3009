@@ -1,20 +1,20 @@
-# Hi, I’m Mithradevi 👋
+# Hi, I’m Mithradevi 
 
 I’m a driven Full-Stack Developer and UI/UX Designer passionate about creating seamless, user-centric software solutions. I blend technical expertise with creativity and strong storytelling to deliver impactful digital experiences.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🔭 Currently building AI-powered web applications and exploring cloud-native architectures  
-- 🌱 Deepening my skills in React.js, Node.js, Azure Cloud, AI/ML integration, and system design  
-- 💡 Enthusiastic about continuous learning, problem-solving, and turning ideas into reality  
-- 🎯 Skilled in balancing front-end aesthetics with robust backend functionality  
-- 📝 Presented research paper on hybrid AI models and data streaming for concept drift detection  
+-  Currently building AI-powered web applications and exploring cloud-native architectures  
+-  Deepening my skills in React.js, Node.js, Azure Cloud, AI/ML integration, and system design  
+-  Enthusiastic about continuous learning, problem-solving, and turning ideas into reality  
+-  Skilled in balancing front-end aesthetics with robust backend functionality  
+-  Presented research paper on hybrid AI models and data streaming for concept drift detection  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 | Frontend                | Backend                 | Cloud & DevOps           | Tools & Others                      |
 |-------------------------|-------------------------|--------------------------|-----------------------------------|
@@ -25,7 +25,7 @@ I’m a driven Full-Stack Developer and UI/UX Designer passionate about creating
 ---
 
 
-## 📫 Connect with Me
+##  Connect with Me
 
 - 📧 Email: [mithradevik.cse2023@gmail.com](mailto:mithradevik.cse2023@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/mithradevi-k-63b4642b5](https://www.linkedin.com/in/mithradevi-k-63b4642b5/)  
