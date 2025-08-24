@@ -8,3 +8,4 @@ I’m a driven Full-Stack Developer and UI/UX Designer passionate about creating
 
 -  Currently building AI-powered web applications and exploring cloud-native architectures  
 
+![Profile Views](https://komarev.com/ghpvc/?username=MithradeviKumar&color=blueviolet&style=flat-square)
