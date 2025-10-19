@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 About Me :<br>🌌 I'm currently working on<br>AI-powered web apps, Web3 prototypes, and semantic graph tools and working in open source projects<br><br>🤝 I'm looking to collaborate on<br>Open-source AI projects, UI/UX design initiatives, and Web3 innovations.<br><br>💡 I'm looking for help with<br>Optimizing cloud-native deployments and advanced LLM integrations.<br><br>🌱 I'm currently learning<br>Advanced Rust for blockchain, Figma for complex UI designs, and DevOps practices.<br><br>❓ Ask me about<br>Full-stack development, UI/UX design, or my GitLab contributions.<br>
+ About Me :<br>🌌 I'm currently working on<br>AI-powered web apps, Web3 prototypes, and semantic graph tools and working in open source projects<br><br>🤝 I'm looking to collaborate on<br>Open-source AI projects, UI/UX design initiatives, and Web3 innovations.<br><br>I'm looking for help with<br>Optimizing cloud-native deployments and advanced LLM integrations.<br><br> I'm currently learning<br>Rust for blockchain, Figma for complex UI designs, and DevOps practices.<br><br>❓ Ask me about<br>Full-stack development, UI/UX design, or my GitLab contributions.<br>
 
 
 ## 🌐 Socials:
