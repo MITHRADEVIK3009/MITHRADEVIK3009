@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Mithradevi (Tony)
 
-💻 Aspiring Software Engineer | Backend Developer | AI Systems Builder
-🚀 ICICC’25 Researcher | GitLab Contributor | GDG Web3 Lead
+ Aspiring Software Engineer | Backend Developer | AI Systems Builder
+ ICICC’25 Researcher | GitLab Contributor | GDG Web3 Lead
 
 ---
 
-# 💫 About Me:
+#  About Me:
 
  I’m currently building **AI-powered web applications, Web3 prototypes, and semantic graph systems**
  Solved **600+ DSA problems (Top 16.5% LeetCode)**
