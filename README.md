@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mithradevi (Tony)
+# 👋 Hi, I'm Mithradevi
 
  Aspiring Software Engineer | Backend Developer | AI Systems Builder
  ICICC’25 Researcher | GitLab Contributor | GDG Web3 Lead
